@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: b9a8c7cc5bfdce746a85692cf8302392
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 136123933251638894
+    second: Ghaleon_0
+  - first:
+      213: 5564040005928516166
+    second: Ghaleon_1
+  - first:
+      213: -5163132063489740673
+    second: Ghaleon_2
+  - first:
+      213: -2199923318046448107
+    second: Ghaleon_3
+  - first:
+      213: 8477586770789591963
+    second: Ghaleon_4
+  - first:
+      213: 8021602204864232190
+    second: Ghaleon_5
+  - first:
+      213: 7898510127847243139
+    second: Ghaleon_6
+  - first:
+      213: -2609468341540794563
+    second: Ghaleon_7
+  - first:
+      213: -7036573221860822385
+    second: Ghaleon_8
+  - first:
+      213: 639435813534646599
+    second: Ghaleon_9
+  - first:
+      213: -6210248063438188127
+    second: Ghaleon_14
+  - first:
+      213: -4429517457835142838
+    second: Ghaleon_15
+  - first:
+      213: 9134625366211081642
+    second: Ghaleon_16
+  - first:
+      213: 2728020655119588676
+    second: Ghaleon_17
+  - first:
+      213: -4336171458270685961
+    second: Ghaleon_18
+  - first:
+      213: -1878527915482104375
+    second: Ghaleon_19
+  - first:
+      213: -2744352491653744929
+    second: Ghaleon_20
+  - first:
+      213: -7499622188617924568
+    second: Ghaleon_21
+  - first:
+      213: 2396440368063968573
+    second: Ghaleon_22
+  - first:
+      213: -722823463143377517
+    second: Ghaleon_23
+  - first:
+      213: -64347226142932943
+    second: Ghaleon_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghaleon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 267
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6694eefefb93e100800000000000000
+      internalID: 136123933251638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 267
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a7e65e7e0773d40800000000000000
+      internalID: 5564040005928516166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 267
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b3436ebed858b0800000000000000
+      internalID: -5163132063489740673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162ebed56d4871e0800000000000000
+      internalID: -2199923318046448107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 265
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be679704076a570800000000000000
+      internalID: 8477586770789591963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 179
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa3c6e74b4725f60800000000000000
+      internalID: 8021602204864232190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 179
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df829fc152d9d60800000000000000
+      internalID: 7898510127847243139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f45d17e5e49cbd0800000000000000
+      internalID: -2609468341540794563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b5f2afe1195e90800000000000000
+      internalID: -7036573221860822385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 179
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741456a0c7bbfd800800000000000000
+      internalID: 639435813534646599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 90
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a195b32a44c0d9a0800000000000000
+      internalID: -6210248063438188127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41585737513782c0800000000000000
+      internalID: -4429517457835142838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 91
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b84d8f55b4ce70800000000000000
+      internalID: 9134625366211081642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 91
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dd4580550ebd520800000000000000
+      internalID: 2728020655119588676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f496906803d2d3c0800000000000000
+      internalID: -4336171458270685961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 91
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb80150d02ee5e0800000000000000
+      internalID: -1878527915482104375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 91
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63584f2f91ae9d0800000000000000
+      internalID: -2744352491653744929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208ac9aa5dfbe790800000000000000
+      internalID: -7499622188617924568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35fbdf51ddd14120800000000000000
+      internalID: 2396440368063968573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3957504d3e308f5f0800000000000000
+      internalID: -722823463143377517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghaleon_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130087be9846b1ff0800000000000000
+      internalID: -64347226142932943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

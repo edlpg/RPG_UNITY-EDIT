@@ -1,0 +1,4 @@
+#Mon Nov 22 01:47:25 EET 2021
+base.0=/Users/eduardodelapena/Downloads/RPG-Unity-main/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
